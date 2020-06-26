@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/keepYourNotes/static/js/main.2642c08b.chunk.js",
-    "main.js.map": "/keepYourNotes/static/js/main.2642c08b.chunk.js.map",
+    "main.js": "/keepYourNotes/static/js/main.ddb167d6.chunk.js",
+    "main.js.map": "/keepYourNotes/static/js/main.ddb167d6.chunk.js.map",
     "runtime-main.js": "/keepYourNotes/static/js/runtime-main.3d1794dd.js",
     "runtime-main.js.map": "/keepYourNotes/static/js/runtime-main.3d1794dd.js.map",
     "static/js/2.d53c014f.chunk.js": "/keepYourNotes/static/js/2.d53c014f.chunk.js",
     "static/js/2.d53c014f.chunk.js.map": "/keepYourNotes/static/js/2.d53c014f.chunk.js.map",
     "index.html": "/keepYourNotes/index.html",
-    "precache-manifest.4448024d99a4bb56d222864295756280.js": "/keepYourNotes/precache-manifest.4448024d99a4bb56d222864295756280.js",
+    "precache-manifest.aecb3e3e5b6990367f6ffe13ccd7370a.js": "/keepYourNotes/precache-manifest.aecb3e3e5b6990367f6ffe13ccd7370a.js",
     "service-worker.js": "/keepYourNotes/service-worker.js"
   },
   "entrypoints": [
     "static/js/runtime-main.3d1794dd.js",
     "static/js/2.d53c014f.chunk.js",
-    "static/js/main.2642c08b.chunk.js"
+    "static/js/main.ddb167d6.chunk.js"
   ]
 }
