@@ -9,12 +9,13 @@ html {
 body {
   background: #eee;
 
-  background-color: #a6dcef;
+  background-color: #eeeeee;
 background-image: url("https://www.transparenttextures.com/patterns/brick-wall-dark.png");
+
 }
 
 header {
-  background-color: #035aa6;
+  background-color: #393e46;
   margin: auto -16px;
   padding: 16px 32px;
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
@@ -31,7 +32,7 @@ header h1 {
 
 footer {
   font-family: "McLaren", cursive;
-  background-color: #035aa6;
+  background-color: #222831;
   position: fixed;
   text-align: center;
   bottom: 0;
@@ -52,6 +53,7 @@ footer p {
   width: 240px;
   margin: 16px;
   float: left;
+
 }
 .note h1 {
   font-size: 1.1em;
@@ -68,7 +70,7 @@ footer p {
   position: relative;
   float: right;
   margin-right: 10px;
-  color: #035aa6;
+  color: #32e0c4;
   border: none;
   width: 36px;
   height: 36px;
@@ -101,7 +103,7 @@ form.createNote button {
   position: absolute;
   right: 18px;
   bottom: -18px;
-  background: #035aa6;
+  background: #32e0c4;
   color: #fff;
   border: none;
   border-radius: 50%;
